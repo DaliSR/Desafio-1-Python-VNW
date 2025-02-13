@@ -6,7 +6,7 @@
 
 nota_do_aluno = float(input("Digite a nota do aluno: "))
 if nota_do_aluno >= 6:
-    print("Aluno aprovado!")
+    print("Aluno aprovado! Parabéns!")
 else:
     print("Aluno reprovado!")
 
